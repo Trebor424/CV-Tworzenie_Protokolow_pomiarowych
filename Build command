@@ -1,0 +1,2 @@
+pyinstaller --onefile --windowed --add-data "Szablony Protokołów pomiarowych:Szablony Protokołów pomiarowych" --name "Kreator protokołów pomiarowych" main.py
+

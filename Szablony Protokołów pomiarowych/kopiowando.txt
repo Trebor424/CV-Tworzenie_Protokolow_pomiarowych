@@ -1,0 +1,12 @@
+Zleceniodawca_1
+Wykonwaca Pomiaru_1
+uprawnienia wykonwacy_1
+Metoda pomiaru_1
+Miejsce badania_1
+Data badania_1
+Typ obiektu_1
+Producent_1
+Nr seryjny_1
+model_1
+Temperatura_1
+Wilgotność_1
