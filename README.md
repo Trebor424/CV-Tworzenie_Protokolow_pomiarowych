@@ -1,3 +1,4 @@
 ﻿# CV-Tworzenie_Protokolow_pomiarowych
 
-Automates the creation of measurement reports, which is useful in laboratories and quality control departments.
+Tech stack: Python, docx, openpyxl, tkinter
+An automated tool for generating electrical measurement protocols. Integrates with Excel spreadsheets and Word templates to produce professional reports for quality assurance and testing departments. GUI included for easy data input.
